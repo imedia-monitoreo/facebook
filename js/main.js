@@ -18,7 +18,7 @@ window.addEventListener('load', function() {
           console.log(user);
           // Llamamos a la funcion
           saveData(result.user);
-          window.location.assign('index.html');
+          window.location.assign('view/dashboard.html');
       })
   }
 
