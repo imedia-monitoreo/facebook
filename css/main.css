@@ -1,23 +1,20 @@
-
-
 .content-face {
-	align-items: center;
-    justify-content: center;
-    display: flex;
-    width: 100%;
-    height: 100%;
-    background: #6d94ca; background: -moz-linear-gradient(315deg,  #6d94ca 0%,#a8c1ef 100%); background: -webkit-linear-gradient(315deg,  #6d94ca 0%,#a8c1ef 100%); background: linear-gradient(315deg,  #6d94ca 0%,#a8c1ef 100%);
-
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  background: #6d94ca; background: -moz-linear-gradient(315deg,  #6d94ca 0%,#a8c1ef 100%); background: -webkit-linear-gradient(315deg,  #6d94ca 0%,#a8c1ef 100%); background: linear-gradient(315deg,  #6d94ca 0%,#a8c1ef 100%);
 }
 
 .section__circle-container > .section__circle-container__circle {
-    width: 64px;
-    height: 64px;
-    margin: 0 auto;
-    position: relative;
-    top: 24px;
+  width: 64px;
+  height: 64px;
+  margin: 0 auto;
+  position: relative;
+  top: 24px;
 }
 
 .mdl-expend {
-    width: 90%;
+  width: 90%;
 }
