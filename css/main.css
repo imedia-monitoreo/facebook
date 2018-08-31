@@ -18,3 +18,7 @@
 .mdl-expend {
   width: 90%;
 }
+
+.not-margin {
+  margin: 0 !important;
+}
