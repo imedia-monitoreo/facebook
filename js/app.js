@@ -52,9 +52,9 @@ window.addEventListener('load', function() {
                                     <i class="material-icons">share</i>
                                   </a>
                                 </span>
-                                <span class="mdl-chip mdl-chip--deletable">
+                                <span id="button-comments" class="mdl-chip mdl-chip--deletable cursor">
                                   <span class="mdl-chip__text">Comentarios(10)</span>
-                                  <button id="button-comments" type="button" class="mdl-chip__action">
+                                  <button type="button" class="mdl-chip__action">
                                     <i class="material-icons">chat_bubble</i>
                                   </button>
                                 </span>

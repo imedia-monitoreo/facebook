@@ -22,3 +22,7 @@
 .not-margin {
   margin: 0 !important;
 }
+
+.cursor {
+  cursor: pointer;
+}
